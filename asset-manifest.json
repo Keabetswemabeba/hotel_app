@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hotel_app/static/css/main.98a10d47.css",
+    "main.js": "/hotel_app/static/js/main.91135056.js",
+    "static/js/787.60e8c377.chunk.js": "/hotel_app/static/js/787.60e8c377.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/hotel_app/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/swimm.jpg": "/hotel_app/static/media/swimm.dee32365e99117a0857f.jpg",
+    "static/media/bootstrap-icons.woff2?": "/hotel_app/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/sidebar.jpg": "/hotel_app/static/media/sidebar.e25de29a9d077f0a5164.jpg",
+    "static/media/gym.jpg": "/hotel_app/static/media/gym.acf156250c489d42b447.jpg",
+    "static/media/res.jpg": "/hotel_app/static/media/res.be7eb5c19c53cf45474e.jpg",
+    "static/media/laundry.jpg": "/hotel_app/static/media/laundry.3f22996fdda3103e3a75.jpg",
+    "static/media/spa.jpg": "/hotel_app/static/media/spa.18272bbcd6de0989699b.jpg",
+    "static/media/img1.jpg": "/hotel_app/static/media/img1.455de3cb68301904ca38.jpg",
+    "static/media/img2.jpg": "/hotel_app/static/media/img2.455de3cb68301904ca38.jpg",
+    "static/media/room1.jpg": "/hotel_app/static/media/room1.244046fdc34e6a799900.jpg",
+    "static/media/room2.jpg": "/hotel_app/static/media/room2.244046fdc34e6a799900.jpg",
+    "static/media/logo.svg": "/hotel_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hotel_app/index.html",
+    "main.98a10d47.css.map": "/hotel_app/static/css/main.98a10d47.css.map",
+    "main.91135056.js.map": "/hotel_app/static/js/main.91135056.js.map",
+    "787.60e8c377.chunk.js.map": "/hotel_app/static/js/787.60e8c377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a10d47.css",
+    "static/js/main.91135056.js"
+  ]
+}
